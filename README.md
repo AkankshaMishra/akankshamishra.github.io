@@ -1,7 +1,7 @@
 # Akanksha Mishra
-> Research Scholar, , IIT Goa
-> School of Mathematics and Computer Science
-> Indian Institute of Technology Goa, India
+> Research Scholar  
+> School of Mathematics and Computer Science  
+> Indian Institute of Technology Goa, India  
 
 [Google Scholar](https://scholar.google.com/citations?user=zcaHZnwAAAAJ&hl=en&authuser=1), [Research Gate](https://www.researchgate.net/profile/Akanksha_Mishra25), [DBLP](https://dblp.org/pers/hd/m/Mishra:Akanksha), [Linkedin](https://www.linkedin.com/in/akanksha-m-5abb95a0/), [Github](https://github.com/AkankshaMishra)
 
