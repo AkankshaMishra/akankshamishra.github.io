@@ -1,3 +1,6 @@
+---
+title: Akanksha Mishra
+---
 # Akanksha Mishra
 > Research Scholar, School of Mathematics and Computer Science at IIT Goa
 
