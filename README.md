@@ -27,7 +27,7 @@
 
 [3] Akanksha Mishra and Richa Sharma, Enriching Frame-based Structured Representations for Requirements using Case Frames - An Approach Towards Handling Incompleteness in Informal Requirements,  12th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE 2017) 
 
-[2] Sunil Gupta, Akanksha Mishra and Mukesh Chawla, Analysis and Recommendation of Common Fault and Failure in Software Development Systems,  Advancement of Artificial Intelligence in Communication & Signal Processing in IEEE SCOPES 2016 
+[2] Sunil Gupta, Akanksha Mishra and Mukesh Chawla, Analysis and Recommendation of Common Fault and Failure in Software Development Systems,  Advancement of Artificial Intelligence in Communication & Signal Processing in IEEE (SCOPES 2016) 
 
 [1] Akanksha Mishra and Ashish Sureka, Graph Matching Based Approach for Inconsistency Detection between BPMN Business Process Models and SBVR Rules,  Third International Conference on Mining Intelligence and Knowledge Explorations (MIKE 2015)
 
