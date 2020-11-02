@@ -19,6 +19,8 @@
 
 # Publications
 
+[7] Akanksha Mishra and Sukomal Pal, IIT BHU at TREC 2019: Incident Streams Track, The Twenty-Eighth Text REtrieval Conference (TREC 2019)
+
 [6] Akanksha Mishra and Sukomal Pal, IIT-BHU at CIQ 2019: Classification of Insincere Questions, 11th meeting of Forum for Information Retrieval Evaluation (FIRE 2019)
 
 [5] Akanksha Mishra and Sukomal Pal, IIT Varanasi at HASOC 2019: Hate Speech and Offensive Content Identification in Indo-European Languages, 11th meeting of Forum for Information Retrieval Evaluation (FIRE 2019)
@@ -55,6 +57,9 @@
 
 # Teaching
 
+**Computer Programming**, IIT BHU, Autumn 2019
+**Computer Programming**, IIT BHU, Spring 2019
+**Database Management Systems**, IIT BHU, Autumn 2018
 **System Programming**, IIIT Delhi, Monsoon 2017  
 **Advanced Programming**, IIIT Delhi, Monsoon 2017  
 **Data Structures and Algorithms**, IIIT Delhi, Winter 2017  
