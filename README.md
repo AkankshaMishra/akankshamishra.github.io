@@ -54,8 +54,8 @@
 
 # Services
 
-* Sub Reviewer, LOD 2021
-* Reviewer, IRIA 2021
+* Reviewer, IRIA 2021  
+* Subreviewer, LOD 2021  
 * Teaching Assistant for a national level course "AI Shiksha - Introduction to Machine Learning" organized as part of National Supercomputing Mission (NSM) 2021
 * Vice chair, IIT Goa ACM Student Chapter
 * Hostel Secreatary (2018-2019)
