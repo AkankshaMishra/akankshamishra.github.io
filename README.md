@@ -59,6 +59,7 @@
 * Teaching Assistant for a national level course "AI Shiksha - Introduction to Machine Learning" organized as part of National Supercomputing Mission (NSM) 2021
 * Vice chair, IIT Goa ACM Student Chapter
 * Hostel Secreatary (2018-2019)
+* Volunteer, Research Showcase, IIIT Delhi, 2014 & 2015
 * Mentor of Coding Events
 * Members: CSI, ACM, IEEE
 
