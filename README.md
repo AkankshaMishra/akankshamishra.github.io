@@ -3,7 +3,7 @@
 > School of Mathematics and Computer Science  
 > Indian Institute of Technology Goa, India  
 
-[Google Scholar](https://scholar.google.com/citations?user=zcaHZnwAAAAJ&hl=en&authuser=1), [Research Gate](https://www.researchgate.net/profile/Akanksha_Mishra25), [DBLP](https://dblp.org/pers/hd/m/Mishra:Akanksha), [Linkedin](https://www.linkedin.com/in/akanksha-m-5abb95a0/), [Github](https://github.com/AkankshaMishra)
+[Google Scholar](https://scholar.google.com/citations?user=zcaHZnwAAAAJ&hl=en&authuser=1), [Orcid ID] (https://orcid.org/0000-0002-7757-2432), [Research Gate](https://www.researchgate.net/profile/Akanksha_Mishra25), [DBLP](https://dblp.org/pers/hd/m/Mishra:Akanksha), [Linkedin](https://www.linkedin.com/in/akanksha-m-5abb95a0/), [Github](https://github.com/AkankshaMishra)
 
 # Education
 
@@ -13,9 +13,10 @@
 
 # Research
 
-* Text mining
-* Social Media Analysis
+* Cancer genomics
 * Machine Learning
+* Social Media Analysis
+* Text Mining
 
 # Publications
 
@@ -57,6 +58,9 @@
 
 # Teaching
 
+**Artificial Intelligence**, IIT Goa, Autumn 2021
+**Machine Learning**, IIT Goa, Spring 2021
+**Artificial Intelligence**, IIT Goa, Autumn 2020
 **Computer Programming**, IIT BHU, Autumn 2019  
 **Computer Programming**, IIT BHU, Spring 2019  
 **Database Management Systems**, IIT BHU, Autumn 2018  
@@ -73,7 +77,7 @@
 
 **Programming Language**
 
-C, C++, Java, J2EE, HTML/XML, C#, XAML, SQL, R, Python, Matlab
+Python, R, C, C++, Java, J2EE, HTML/XML, C#, XAML, SQL, Matlab
 
 **Tools and Technologies**
 
