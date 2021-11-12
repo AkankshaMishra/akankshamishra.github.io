@@ -15,10 +15,13 @@
 
 * Cancer genomics
 * Machine Learning
+* Interpretable Deep Learning  
 * Social Media Analysis
 * Text Mining
 
 # Publications
+
+[8] Harshit Mehrotra, Akanksha Mishra and Sukomal Pal, A Multi-stage Classification Framework for Disaster-Specific Tweets (SN Computer Science 2022)
 
 [7] Akanksha Mishra and Sukomal Pal, IIT BHU at TREC 2019: Incident Streams Track, The Twenty-Eighth Text REtrieval Conference (TREC 2019)
 
@@ -49,12 +52,15 @@
 * Assistant Profressor, BML Munjal University (2015 - 2016)
 * Research Associate and Member, Software Analytics Lab, IIIT Delhi [Dr. Ashish Sureka]
 
-**Position of Responsibility**
+# Services
 
-* Hostel Secreatary
-* Teaching Assistant
+* Sub Reviewer, LOD 2021
+* Reviewer, IRIA 2021
+* Teaching Assistant for a national level course "AI Shiksha - Introduction to Machine Learning" organized as part of National Supercomputing Mission (NSM) 2021
+* Vice chair, IIT Goa ACM Student Chapter
+* Hostel Secreatary (2018-2019)
 * Mentor of Coding Events
-* Member of CSI, ACM, IEEE
+* Members: CSI, ACM, IEEE
 
 # Teaching
 
