@@ -1,5 +1,5 @@
 # Akanksha Mishra
-> Research Scholar  
+> Research Scholar
 > School of Mathematics and Computer Science  
 > Indian Institute of Technology Goa, India  
 
@@ -39,7 +39,7 @@
 
 # Achievements
 
-* Travel grant for attending CODS-COMAD Conference at ISB Hyderabad
+* Travel grant for attending CODS-COMAD 2020 Conference at ISB Hyderabad
 * Travel grant for FIRE 2019 at ISI Kolkata
 * Qualified UGC-NET (2018)
 * Qualified GATE (2013)
@@ -54,10 +54,10 @@
 
 # Services
 
-* Reviewer, IRIA 2021  
-* Subreviewer, LOD 2021  
+* Invited Reviewer, IRIA 2021  
+* Invited Subreviewer, LOD 2021  
 * Teaching Assistant for a national level course "AI Shiksha - Introduction to Machine Learning" organized as part of National Supercomputing Mission (NSM) 2021
-* Vice chair, IIT Goa ACM Student Chapter
+* Vice chair, IIT Goa ACM Student Chapter (2020-)
 * Hostel Secreatary (2018-2019)
 * Volunteer, Research Showcase, IIIT Delhi, 2014 & 2015
 * Mentor of Coding Events
@@ -65,11 +65,9 @@
 
 # Teaching
 
-**Artificial Intelligence**, IIT Goa, Autumn 2021  
-**Machine Learning**, IIT Goa, Spring 2021  
-**Artificial Intelligence**, IIT Goa, Autumn 2020  
-**Computer Programming**, IIT BHU, Autumn 2019  
-**Computer Programming**, IIT BHU, Spring 2019  
+**Artificial Intelligence**, IIT Goa, (Autumn 2020, 2021)  
+**Machine Learning**, IIT Goa, Spring 2021    
+**Computer Programming**, IIT BHU, (Spring 2019, Autumn 2019)   
 **Database Management Systems**, IIT BHU, Autumn 2018  
 **System Programming**, IIIT Delhi, Monsoon 2017  
 **Advanced Programming**, IIIT Delhi, Monsoon 2017  
