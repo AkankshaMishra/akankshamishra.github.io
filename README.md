@@ -1,5 +1,5 @@
 # Akanksha Mishra
-> Research Scholar
+> Research Scholar,
 > School of Mathematics and Computer Science  
 > Indian Institute of Technology Goa, India  
 
@@ -57,7 +57,7 @@
 * Invited Reviewer, IRIA 2021  
 * Invited Subreviewer, LOD 2021  
 * Teaching Assistant for a national level course "AI Shiksha - Introduction to Machine Learning" organized as part of National Supercomputing Mission (NSM) 2021
-* Vice chair, IIT Goa ACM Student Chapter (2020-)
+* Vice chair, IIT Goa ACM Student Chapter (2021-)
 * Hostel Secreatary (2018-2019)
 * Volunteer, Research Showcase, IIIT Delhi, 2014 & 2015
 * Mentor of Coding Events
