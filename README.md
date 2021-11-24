@@ -65,10 +65,13 @@
 
 # Teaching
 
+### TA
 **Artificial Intelligence**, IIT Goa, (Autumn 2020, 2021)  
 **Machine Learning**, IIT Goa, Spring 2021    
 **Computer Programming**, IIT BHU, (Spring 2019, Autumn 2019)   
 **Database Management Systems**, IIT BHU, Autumn 2018  
+
+### Co-Instructor
 **System Programming**, IIIT Delhi, Monsoon 2017  
 **Advanced Programming**, IIIT Delhi, Monsoon 2017  
 **Data Structures and Algorithms**, IIIT Delhi, Winter 2017  
