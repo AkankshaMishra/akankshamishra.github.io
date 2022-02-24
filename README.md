@@ -39,6 +39,7 @@
 
 # Achievements
 
+* Fellowship grant for attending NeurIPS 2021
 * Travel grant for attending CODS-COMAD 2020 Conference at ISB Hyderabad
 * Travel grant for FIRE 2019 at ISI Kolkata
 * Qualified UGC-NET (2018)
@@ -67,7 +68,7 @@
 
 ### TA
 **Artificial Intelligence**, IIT Goa, (Autumn 2020, 2021)  
-**Machine Learning**, IIT Goa, Spring 2021    
+**Machine Learning**, IIT Goa, (Spring 2021, 2022)    
 **Computer Programming**, IIT BHU, (Spring 2019, Autumn 2019)   
 **Database Management Systems**, IIT BHU, Autumn 2018  
 
