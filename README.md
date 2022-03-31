@@ -39,6 +39,7 @@
 
 # Achievements
 
+* Fellowship grant for attending AISTATS 2022
 * Fellowship grant for attending NeurIPS 2021
 * Travel grant for attending CODS-COMAD 2020 Conference at ISB Hyderabad
 * Travel grant for FIRE 2019 at ISI Kolkata
@@ -55,6 +56,7 @@
 
 # Services
 
+* Volunteer, AISTATS 2022
 * Invited Reviewer, IRIA 2021  
 * Invited Subreviewer, LOD 2021  
 * Teaching Assistant for a national level course "AI Shiksha - Introduction to Machine Learning" organized as part of National Supercomputing Mission (NSM) 2021
