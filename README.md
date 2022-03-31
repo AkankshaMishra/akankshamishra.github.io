@@ -1,4 +1,9 @@
-![Akanksha] (akankshamishra_cse.jpg)
+<img 
+  align="left"
+  width="100"
+  height="100"
+  src="akankshamishra_cse.jpg"
+>
 # Akanksha Mishra
 > Research Scholar,
 > School of Mathematics and Computer Science  
