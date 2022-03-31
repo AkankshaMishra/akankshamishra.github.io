@@ -1,9 +1,7 @@
-<img 
-  align="left"
-  width="100"
-  height="100"
-  src="akankshamishra_cse.jpg"
->
+### Small image
+
+![Octocat](https://akankshamishra.github.io/akankshamishra_cse.jpg)
+
 # Akanksha Mishra
 > Research Scholar,
 > School of Mathematics and Computer Science  
