@@ -1,3 +1,4 @@
+![Akanksha] (akankshamishra_cse.jpg)
 # Akanksha Mishra
 > Research Scholar,
 > School of Mathematics and Computer Science  
